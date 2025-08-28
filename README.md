@@ -92,23 +92,8 @@ Traditional 'robots.txt' was designed for simple web crawling in the 1990s. Toda
 
 
 
-\## Quick Start
-
-
-
-1\. \*\*Create airobots.md\*\* at `/.well-known/airobots.md` (preferred) or website root
-
-2\. \*\*Define your permissions\*\* using our template
-
-3\. \*\*Specify economic terms\*\* if applicable  
-
-4\. \*\*Enable AI-to-AI communication\*\* (optional)
-
-5\. \*\*Add DNS TXT record\*\* for platform-agnostic discovery (advanced)
-
-
-
 See our Examples directory for common use cases.
+https://github.com/pchavez67/ai-robots-communication-standard/tree/main/examples
 
 
 
@@ -143,8 +128,6 @@ https://example.com/airobots.md
 \# Legacy: Traditional robots.txt
 
 https://example.com/robots.txt
-
-
 
 
 
@@ -238,7 +221,7 @@ Unlike corporate-controlled standards, airobots.md is built through:
 
 
 
-🚧 \*\*Internet-Draft Available\*\*: View the full specification
+🚧 \*\*Internet-Draft Available\*\*: View the full specification - https://github.com/pchavez67/ai-robots-communication-standard/blob/main/AI%20Robots%20Communication%20Standard.md
 
 
 
