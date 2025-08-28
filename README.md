@@ -68,7 +68,7 @@ Traditional 'robots.txt' was designed for simple web crawling in the 1990s. Toda
 
 \- Real-time research collaboration frameworks
 
-\- Secure communication channels (TCP 8443)
+\- Secure communication channels (TCP 8367)
 
 
 
